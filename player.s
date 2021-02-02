@@ -38,7 +38,7 @@ playerData:
 	.word 155		; Angle in degrees from +X
 	.word 2	; Power
 	.word 100		; Anger
-	.byte 8,"TINKER   "	; Name
+	.byte 8,"OTHELLO  "	; Name
 	.word 0				; Base Sprite
 	.word 0,5,5,0,0,0,0,0	; Inventory
 	.word 0				; Current weapon
